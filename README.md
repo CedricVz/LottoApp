@@ -1,0 +1,2 @@
+# LottoApp
+Lottery game
