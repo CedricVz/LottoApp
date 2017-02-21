@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="backBtn" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="71" max="-2" attributes="0"/>
+                      <Component id="lottoph2Btn" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="resultsLbl" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="line20Tf" pref="27" max="32767" attributes="0"/>
+                              <Component id="line10Tf" max="32767" attributes="0"/>
+                              <Component id="line00Tf" max="32767" attributes="0"/>
+                              <Component id="displayResults0Lbl" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                          <Component id="line21Tf" pref="27" max="32767" attributes="0"/>
+                                          <Component id="line11Tf" max="32767" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="line22Tf" pref="27" max="32767" attributes="0"/>
+                                          <Component id="line12Tf" max="32767" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="line13Tf" pref="26" max="32767" attributes="0"/>
+                                          <Component id="line23Tf" max="32767" attributes="0"/>
+                                      </Group>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                                              <Component id="line14Tf" pref="25" max="32767" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" attributes="0">
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="line24Tf" max="32767" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="line01Tf" min="-2" pref="27" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="line02Tf" min="-2" pref="27" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="line03Tf" min="-2" pref="26" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="line04Tf" min="-2" pref="25" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="matched1NumLbl" min="-2" pref="33" max="-2" attributes="0"/>
+                                      <Group type="102" attributes="0">
+                                          <Component id="displayResults1Lbl" min="-2" pref="31" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="displayResults2Lbl" min="-2" pref="27" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="displayResults3Lbl" min="-2" pref="22" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="matched2NumLbl" alignment="1" min="-2" pref="33" max="-2" attributes="0"/>
+                                      <Component id="matched3NumLbl" alignment="1" min="-2" pref="33" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="displayResults4Lbl" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Component id="selectNumLbl" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="line2Lbl" min="-2" max="-2" attributes="0"/>
+                              <Component id="line1Lbl" min="-2" max="-2" attributes="0"/>
+                              <Component id="line3Lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="matched3Lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                  <Component id="matched1Lbl" min="-2" max="-2" attributes="0"/>
+                                  <Component id="matched2Lbl" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Component id="lottoPhase1Lbl" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="77" max="32767" attributes="0"/>
+              <Component id="exitBtn" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="playBtn" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="lottoPhase1Lbl" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="selectNumLbl" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="line00Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line01Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line02Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line03Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line04Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line1Lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="line10Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line11Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line12Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line13Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line14Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line2Lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="line20Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line21Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line22Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line23Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line24Tf" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="line3Lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="2" max="-2" attributes="0"/>
+                      <Component id="playBtn" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="displayResults0Lbl" max="32767" attributes="0"/>
+                          <Component id="displayResults1Lbl" max="32767" attributes="0"/>
+                          <Component id="displayResults2Lbl" max="32767" attributes="0"/>
+                          <Component id="displayResults3Lbl" max="32767" attributes="0"/>
+                          <Component id="displayResults4Lbl" pref="22" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="resultsLbl" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="67" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="matched1Lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="matched1NumLbl" alignment="0" min="-2" pref="14" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="matched2NumLbl" alignment="1" min="-2" pref="14" max="-2" attributes="0"/>
+                  <Component id="matched2Lbl" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="matched3NumLbl" min="-2" pref="14" max="-2" attributes="0"/>
+                  <Component id="matched3Lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="60" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="backBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="exitBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lottoph2Btn" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lottoPhase1Lbl">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Lotto Phase 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="selectNumLbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Please select your numbers from 1 - 40, no duplicates:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="line00Tf">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="line00TfActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="line10Tf">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="line10TfActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="line20Tf">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="line20TfActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="line02Tf">
+    </Component>
+    <Component class="javax.swing.JTextField" name="line01Tf">
+    </Component>
+    <Component class="javax.swing.JTextField" name="line11Tf">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="line11TfActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="line21Tf">
+    </Component>
+    <Component class="javax.swing.JTextField" name="line22Tf">
+    </Component>
+    <Component class="javax.swing.JTextField" name="line12Tf">
+    </Component>
+    <Component class="javax.swing.JTextField" name="line03Tf">
+    </Component>
+    <Component class="javax.swing.JTextField" name="line13Tf">
+    </Component>
+    <Component class="javax.swing.JTextField" name="line23Tf">
+    </Component>
+    <Component class="javax.swing.JTextField" name="line04Tf">
+    </Component>
+    <Component class="javax.swing.JTextField" name="line14Tf">
+    </Component>
+    <Component class="javax.swing.JTextField" name="line24Tf">
+    </Component>
+    <Component class="javax.swing.JLabel" name="line1Lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Line 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="line2Lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Line 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="line3Lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Line 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resultsLbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Lotto Results:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="displayResults0Lbl">
+    </Component>
+    <Component class="javax.swing.JButton" name="backBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;- Back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="backBtnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="matched1Lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Numbers matched on Line 1:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="matched2Lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Numbers matched on Line 2:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="matched3Lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Numbers matched on Line 3:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="matched1NumLbl">
+    </Component>
+    <Component class="javax.swing.JLabel" name="matched2NumLbl">
+    </Component>
+    <Component class="javax.swing.JLabel" name="matched3NumLbl">
+    </Component>
+    <Component class="javax.swing.JButton" name="playBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Play game"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="playBtnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="exitBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Exit"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="exitBtnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="displayResults1Lbl">
+    </Component>
+    <Component class="javax.swing.JLabel" name="displayResults2Lbl">
+    </Component>
+    <Component class="javax.swing.JLabel" name="displayResults3Lbl">
+    </Component>
+    <Component class="javax.swing.JLabel" name="displayResults4Lbl">
+    </Component>
+    <Component class="javax.swing.JButton" name="lottoph2Btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Play Lotto Phase 2"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lottoph2BtnActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
